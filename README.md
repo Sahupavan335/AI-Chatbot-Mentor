@@ -62,11 +62,11 @@ Each learning module works like its **own chat page**, ensuring focused mentorin
 
 ## 🧠 How It Works
 
-1.Select a learning module
-2.A new chat page is created for that module
-3.Ask questions strictly related to the selected module
-4.Switch modules → new chat
-5.Return to a module → previous chat restored
+1. Select a learning module
+2. A new chat page is created for that module
+3. Ask questions strictly related to the selected module
+4. Switch modules → new chat
+5. Return to a module → previous chat restored
 
 ## 🔐 Scope Enforcement Logic
 
@@ -90,3 +90,4 @@ Each learning module works like its **own chat page**, ensuring focused mentorin
 💡 Interested in AI, ML, GenAI & Backend Development
 
 - LinkedIn: linkedin.com/in/sahu-pavan
+
